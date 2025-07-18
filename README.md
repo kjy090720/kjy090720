@@ -1,4 +1,6 @@
-## Hi there 👋
+### About Me
+
+<h1 align="left"> Hi there 👋 I am Jungyoon Kim </h1>
 
 <!--
 **kjy090720/kjy090720** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
